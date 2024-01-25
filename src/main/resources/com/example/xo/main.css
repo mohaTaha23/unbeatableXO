@@ -1,0 +1,15 @@
+Button{
+    -fx-text-fill: White;
+    -fx-background-color: #a6493e;
+    -fx-font-size: 16;
+    -fx-font-family:"Pristina";
+}
+Pane{
+    -fx-background-color: #fff2cc;
+}
+Label{
+    -fx-text-fill: Black;
+    -fx-font-size: 20;
+    -fx-font-weight: bold;
+    -fx-font-family:"Pristina";
+}

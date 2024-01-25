@@ -1,0 +1,30 @@
+.winner-Button{
+     /* Set the background color for buttons */
+    -fx-text-fill: red; /* Set the text color for buttons */
+    -fx-font-size: 30px;
+    -fx-font-family: "sans-serif";
+}
+.non-Button{
+    -fx-text-fill: black;
+    -fx-font-size: 16;
+    -fx-font-family:"sans-serif" ;
+}
+.styled-Pane {
+    -fx-background-color: linear-gradient(to right bottom, #c05353, #cb6d50, #d18852, #d2a35b, #d1bd6d, #c5cc80, #bbd998, #b3e5b2, #abe6c8, #ade6da, #bae4e4, #cae1e6);
+}
+.label{
+    -fx-font-size: 18px;
+    -fx-font-weight: 600;
+}
+.Face-Button{
+    -fx-background-color: #ade6da;
+    -fx-font-size: 16px;
+    -fx-font-weight: 400;
+    -fx-border-width: 2px;
+    -fx-border-color: black;
+    -fx-shape: "M 15 0 L 285 0 Q 300 0, 300 15 L 300 85 Q 300 100, 285 100 L 15 100 Q 0 100, 0 85 L 0 15 Q 0 0, 15 0 Z ";
+
+    /*-fx-shape: "M 25 10 L 285 0 Q 300 19, 280 10 L 310 95 Q 300 100, 285 80 L 25 120 Q 0 100, 0 85 L 0 15 Q 10 0, 15 0 Z";*/
+    /*-fx-border-radius: 12px;*/
+    /*-fx-padding: 25%;*/
+}
